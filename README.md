@@ -11,7 +11,7 @@ Here ->**[Releases Page](https://github.com/poslicek/linux-Fishao.fun-client/rel
 | Platform | Format | Link |
 | :--- | :--- | :--- |
 | **Linux (x64)** | `.zip` | [Download](https://github.com/poslicek/linux-Fishao.fun-client/releases/latest) |
-
+| **Windows (x64)** | `.zip` | [Download](https://github.com/poslicek/linux-Fishao.fun-client/releases/tag/Windows) |
 ---
 
 
